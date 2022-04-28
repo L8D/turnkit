@@ -1,0 +1,14 @@
+{
+  "name": "@wrapped-labs/turnstile-replay",
+  "version": "1.2.2",
+  "engines": {
+    "node": "14.19.1",
+    "npm": "6.14.16"
+  },
+  "peerDependencies": {
+    "typescript": "4.6.2"
+  },
+  "dependencies": {
+    "@wrapped-labs/turnstile-types": "^1.1.4"
+  }
+}

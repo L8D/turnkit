@@ -1,0 +1,8 @@
+{
+  "include": ["**/*.ts", "**/*.tsx", "**/*.js", "**/*.jsx", "**/*.json"],
+  "extends": "../types/tsconfig.json",
+  "compilerOptions": {
+    "allowJs": false,
+    "module": "commonjs"
+  }
+}

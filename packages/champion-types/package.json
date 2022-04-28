@@ -1,0 +1,15 @@
+{
+  "name": "@wrapped-labs/champion-types",
+  "version": "1.2.5",
+  "engines": {
+    "node": "14.19.1",
+    "npm": "6.14.16"
+  },
+  "peerDependencies": {
+    "typescript": "4.6.2"
+  },
+  "dependencies": {
+    "@wrapped-labs/arena-types": "^1.9.1",
+    "@wrapped-labs/turnstile-types": "^1.1.4"
+  }
+}
